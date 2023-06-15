@@ -1,0 +1,11 @@
+{
+    "fourGame": {
+        "code": "200",
+        "Success": true,
+        "error": "",
+        "gamebody": {
+            "fourUrl": "https://galigame.cc/600233",
+            "version": "1"
+        }
+    }
+}
